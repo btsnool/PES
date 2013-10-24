@@ -9,5 +9,6 @@
 </head>
 <body>
 <h1><s:property value="message" /></h1>
+<h1>看到这个页面，数据库也许已经连接上了！</h1>
 </body>
 </html>
